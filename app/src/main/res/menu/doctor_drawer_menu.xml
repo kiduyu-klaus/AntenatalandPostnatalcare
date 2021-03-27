@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/doc_nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home"/>
+
+        <item android:id="@+id/doc_nav_approveApp"
+            android:icon="@drawable/ic_appointment"
+            android:title="Approve Appointment"/>
+        <item
+            android:id="@+id/doc_nav_approvePay"
+            android:icon="@drawable/ic_appointment_book"
+            android:title="Approve payments" />
+        <item
+            android:id="@+id/doc_nav_updates"
+            android:icon="@drawable/ic_appointment_book"
+            android:title="Send Updates" />
+        <item
+            android:id="@+id/doc_nav_sendnotifications"
+            android:icon="@drawable/ic_appointment_book"
+            android:title="Send Notifications" />
+
+        <item android:id="@+id/doc_nav_signout"
+            android:icon="@drawable/ic_powe"
+            android:title="SignOut"/>
+    </group>
+
+</menu>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Antenatal_and_Postnatal_care.iml" filepath="$PROJECT_DIR$/.idea/modules/Antenatal_and_Postnatal_care.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Antenatal_and_Postnatal_care.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Antenatal_and_Postnatal_care.app.iml" />
+    </modules>
+  </component>
+</project>

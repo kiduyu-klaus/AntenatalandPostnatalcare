@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Antenatal and Postnatal care</string>
+    <string name="splash_button1">Join Now</string>
+    <string name="splash_button2">Already have an Account? Login</string>
+
+    <string name="register_name_hint">Input Name:</string>
+    <string name="register_phone_hint">Input Number:</string>
+    <string name="register_password_hint">Input Password:</string>
+    <string name="register_pass_confirm_hint">Confirm Password:</string>
+
+    <string name="navigation_drawer_open">Open navigtion drawer</string>
+    <string name="navigation_drawer_close">close navigtion drawer</string>
+    <string name="customer_login">User Login</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="password">Password:</string>
+    <string name="log_in">User Login</string>
+    <string name="don_t_have_account_sign_up_here">Don\'t have account?Sign up here</string>
+    <string name="login_txt">Login As A Doctor..click Here</string>
+    <string name="login_as_a_customer_click_here">Login As A User..click Here</string>
+    <string name="are_you_a_veterinary_click_here">Are You A Doctor..Click Here</string>
+    <string name="are_you_a_customer_click_here">Are You A Driver..Click Here</string>
+    <string name="customer_registration">User Registration</string>
+    <string name="full_name">Full Name :</string>
+    <string name="confirm_password">Confirm Password:</string>
+    <string name="customer_register">User Register</string>
+    <string name="already_have_account_sign_in_here">Already have account?Sign in here</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="animal_name">Animal Name:</string>
+    <string name="add_a_sick_animal">Add A Sick Animal</string>
+    <string name="breed">Breed:</string>
+    <string name="description">Description:</string>
+    <string name="browse">Browse</string>
+
+    <string-array name="profile_dropdown">
+        <item>Location or landmark</item>
+        <item>Dedan Kimathi</item>
+        <item>Kingongo</item>
+        <item>Kamakwa</item>
+        <item>Kingongo</item>
+        <item>Skuta</item>
+        <item>Nyeri Town</item>
+        <item>Mweiga</item>
+        <item>Murigato</item>
+        <item>Nyeri Uptown</item>
+        <item>Near kingongo Prisons</item>
+        <item>Near Naivas Supermarket</item>
+    </string-array>
+
+
+    <string name="dedan_kimathi">-0.393794,36.955898</string>
+    <string name="kingongo">-0.413747,36.955328</string>
+    <string name="kamakwa">-0.428061,36.931601</string>
+    <string name="skuta">-0.435504,36.973551</string>
+    <string name="nyeri">-0.435504,36.973551</string>
+    <string name="near_naivas">-0.424593,36.955366</string>
+    <string name="stage_kimathi">-0.421171,36.950677</string>
+    <string name="near_prisons">-0.415538,36.958402</string>
+    <string name="murigato">-0.403018,36.945495</string>
+    <string name="muiga">-0.316892,36.9006925</string>
+
+
+    <string name="please_wait">Please wait....Verifying Credentials.</string>
+    <string name="splash_text">A Veterinary Application</string>
+    <string name="short_lorem_ipsum">"Hey! Remember you have to attribute Freepik Every time you attribute t-rex can drink his coffee Copy the following link on the web you will be using this resource. If you want more information read the attribution guide or download the license.  "</string>
+</resources>
